@@ -1,17 +1,5 @@
 # Air Quality Predictor
 
-## Contents
-
-- [Introduction](#Introduction)
-- [Purpose of the Project](#Purpose-of-the-Project)
-- [Components of the Project](#Components-of-the-Project)
-- [About the Frontend of the Project](#About-the-Frontend-of-the-Project)
-- [About the Backend of the Project](#About-the-Backend-of-the-Project)
-- [About the Machine Learning Model](#About-the-Machine-Learning-Model)
-- [Installation and Usage](#Installation-and-Usage)
-- [Deployment](#Deployment)
-- [Links](#Links)
-- [Warning](#Warning)
 
 
 ## Introduction 
@@ -63,7 +51,7 @@ Link to download Python: https://www.python.org/
 After downloading the above two softwares, we need to clone the project. In order to clone the project, execute the following command:
 
 ```
-git clone https://github.com/somenath203/Air-Quality-Predictor.git
+git clone https://github.com/sohanreddyk/air-quality-prediction.git
 ```
 
 ### Step 3:
@@ -112,17 +100,6 @@ Here, I have assumed that the development server of FastAPI is running on PORT 8
 
 The frontend of the project is deployed in Vercel whereas the backend of the project is deployed in Render.
 
-## Links
-
-Live preview of the project: https://air-quality-predictor.vercel.app/
-
-Link to the deployed API of the project: https://pred-air-quality-back.onrender.com/
-
-Link to the swagger documentation of the backend API of the project: https://pred-air-quality-back.onrender.com/docs
-
-Link to the jupyter notebook of the machine learning model: https://github.com/somenath203/Air-Quality-Predictor/blob/main/backend/air_quality.ipynb
-
-Link to the dataset used to train the machine learning model: https://www.kaggle.com/datasets/fedesoriano/air-quality-data-in-india
 
 ## Warning
 
