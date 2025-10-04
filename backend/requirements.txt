@@ -1,7 +1,8 @@
 fastapi
 pydantic
+cython==0.29.36
 scikit-learn==1.2.2
-numpy
+numpy==1.24.4
 pandas
 seaborn
 matplotlib
