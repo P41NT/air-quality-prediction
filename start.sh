@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Start backend on localhost:8000
+# Start backend on 0.0.0.0:8000
 cd backend
-uvicorn app:app --host localhost --port 8000 &
+uvicorn app:app --host 0.0.0.0 --port 8000 &
 BACKEND_PID=$!
 
 # Wait for backend to start
