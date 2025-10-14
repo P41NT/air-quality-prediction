@@ -15,6 +15,7 @@
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^14.6.1",
     "@tippyjs/react": "^4.2.6",
+    "autoprefixer": "^10.4.21",
     "axios": "^1.12.2",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
@@ -23,7 +24,7 @@
     "react-scripts": "^5.0.1",
     "react-simple-typewriter": "^5.0.1",
     "react-toastify": "^11.0.5",
-    "tailwindcss": "^4.1.14",
+    "tailwindcss": "^3.3.3",
     "web-vitals": "^5.1.0"
   }
 }
